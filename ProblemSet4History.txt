@@ -1,0 +1,20 @@
+  524  git commit -m "initialized question 1"
+  525  git push
+  526  git push --set-upstream origin main
+  527  git branch -M main
+  528  git status
+  529  git add .
+  530  git status
+  531  git push
+  532  git push -u origin main
+  533  touch Question2.ipynb
+  534  touch Question3.ipynb
+  535  code Question1.ipynb
+  536  code Question2.ipynb
+  537  code Question3.ipynb
+  538  touch README.md
+  539  code README.md
+  540  git add .
+  541  git commit -m "initialized problems"
+  542  git push
+  543  history | tail -n 20 >> ProblemSet4History.txt
